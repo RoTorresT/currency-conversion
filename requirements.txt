@@ -1,0 +1,10 @@
+fake-headers==1.0.2
+fastapi==0.89.1
+iso4217==1.11.20220401
+pydantic==1.10.4
+PyJWT==2.6.0
+python-dotenv==0.21.0
+requests-cache==0.9.8
+retry==0.9.2
+SQLAlchemy==1.4.46
+uvicorn==0.20.0
